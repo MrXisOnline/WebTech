@@ -1,0 +1,44 @@
+body{
+  background: cyan;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.main{
+  padding: 3% 10% 3% 10%;
+  color: white;
+  font-family: 'Noto Sans JP', sans-serif;
+  background: #00008B;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  width: 60%;
+  font-size: 30px;
+}
+ h1{
+   font-size: 60px;
+ }
+ h2{
+   font-size: 40px;
+ }
+
+input{
+  border-radius: 3px;
+  margin: 10px;
+  width: 40%;
+  font-size: 20px;
+  /* height: 10%; */
+  padding: 10px;
+}
+#submit{
+  background: #ffa500;
+  font-size: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  width: 20%;
+  padding: 20px;
+}
+
+p{
+  margin: 10% auto 10% auto;
+}
